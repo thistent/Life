@@ -487,8 +487,8 @@ livenessToEl cell =
 
 isInverted : Bool
 isInverted =
-    --False
-    True
+    --True
+    False
 
 
 inv : Color -> Color
